@@ -1,0 +1,17 @@
+.copy-block {
+  height: 5vh;
+  background: #001e3c;
+  border-radius: 5px;
+  padding: 5px 25px;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  color: white;
+}
+.copy-button {
+  background: rgba(0, 0, 0, 0.164);
+  border: none;
+  color: white;
+  padding: 3px 5px;
+  cursor: pointer;
+}
